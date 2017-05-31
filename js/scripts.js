@@ -5,6 +5,5 @@ var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola'],
 
 if (allNames.indexOf(newName) === -1) {
 	var x = allNames.push(newName);
-	console.log(allNames);
 }
-
+console.log(allNames);
